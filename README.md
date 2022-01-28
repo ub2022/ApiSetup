@@ -1,2 +1,4 @@
 # ApiSetup
-Simple API setup for amps or whatever script you want to use
+Simple API setup for amps or whatever scripta you want to use
+
+#How to install
