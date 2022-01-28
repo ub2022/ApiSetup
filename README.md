@@ -36,14 +36,6 @@ Compile Scripts:
 yum -y install screen libpcap-devel tcl tcl-devel gcc
 
 mv /root/api.php /var/www/html/
-
-sh /root/sedip.sh
-
-sh /root/sedpass.sh
-
-rm -rf /root/sedip.sh
-
-rm -rf /root/sedpass.sh
 <br>
 <br>
 All done!<br>
