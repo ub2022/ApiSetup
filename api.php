@@ -19,6 +19,7 @@ $apikey = $_GET['apikey'];
 //get methods
 $array = array("METHOD", "stop");
 
+//api key
 $ray = array("API_KEY");
 
 //check for api key
