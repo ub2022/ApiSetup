@@ -1,7 +1,7 @@
 <?php
 
 //simple api script in php by ɄŁ₮₹₳
-
+ 
 //connect to server
 $srvip = "SERVER_IP";
 $srvpass = "SERVER_PASS";
