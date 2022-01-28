@@ -44,3 +44,7 @@ sh /root/sedpass.sh
 rm -rf /root/sedip.sh
 
 rm -rf /root/sedpass.sh
+<br>
+<br>
+All done!<br>
+API URL > http://serverip/api.php?apikey=API_KEY&host=[host]&port=[port]&time=[time]&method=[method]
